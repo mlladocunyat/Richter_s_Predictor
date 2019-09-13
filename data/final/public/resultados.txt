@@ -1,0 +1,56 @@
+submision_00_01-NN-5-clases.ipynb
+[('Preprosessor', presotere(caso=1, geocode=1, scaler='MinMax')), ('Modelo', mimodelo(bootstrap=True, criterion='mse', max_depth=27, max_features='auto',
+     max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=2, min_samples_split=20,
+     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+     oob_score=False, random_state=0, verbose=1, warm_start=False))]
+Score: 0.7369969418249049
+10/09/2019 18:30:01
+submision_00_01-NN-5-clases.ipynb
+[('Preprosessor', presotere(caso=1, geocode=1, scaler='MinMax')), ('Modelo', mimodelo(bootstrap=True, criterion='mse', max_depth=27, max_features='auto',
+     max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=2, min_samples_split=20,
+     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+     oob_score=False, random_state=0, verbose=1, warm_start=False))]
+Score: 0.7369969418249049
+10/09/2019 18:30:03
+submision_00_01-NN-5-clases.ipynb
+[('Preprosessor', presotere(caso=1, geocode=1, scaler='MinMax')), ('Modelo', mimodelo(bootstrap=True, criterion='mse', max_depth=27, max_features='auto',
+     max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=2, min_samples_split=20,
+     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+     oob_score=False, random_state=0, verbose=1, warm_start=False))]
+Score: 0.7369969418249049
+10/09/2019 18:36:09
+submision_00_01-NN-5-clases.ipynb
+[('Preprosessor', presotere(caso=1, geocode=1, scaler='MinMax')), ('Modelo', mimodelo(bootstrap=True, criterion='mse', max_depth=27, max_features='auto',
+     max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=2, min_samples_split=20,
+     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+     oob_score=False, random_state=0, verbose=1, warm_start=False))]
+Score: 0.7369736857405319
+10/09/2019 18:43:01
+submision_00_01-NN-5-clases.ipynb
+[('Preprosessor', presotere(caso=1, geocode=1, scaler='MinMax')), ('Modelo', mimodelo(bootstrap=True, criterion='mse', max_depth=27, max_features='auto',
+     max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=2, min_samples_split=20,
+     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+     oob_score=False, random_state=0, verbose=1, warm_start=False))]
+Score: 0.7368108931499204
+10/09/2019 18:45:08
+submision_00_01-NN-5-clases.ipynb
+[('Preprosessor', presotere(caso=1, geocode=1, scaler='MinMax')), ('Modelo', mimodelo(bootstrap=True, criterion='mse', max_depth=27, max_features='auto',
+     max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=2, min_samples_split=20,
+     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+     oob_score=False, random_state=0, verbose=1, warm_start=False))]
+Score: 0.7369969418249049
+10/09/2019 18:47:07
+submision_00_01-NN-5-clases.ipynb
+[('Preprosessor', presotere(caso=1, geocode=1, scaler='MinMax')), ('Modelo', mimodelo(bootstrap=True, criterion='mse', max_depth=27, max_features='auto',
+     max_leaf_nodes=None, min_impurity_decrease=0.0,
+     min_impurity_split=None, min_samples_leaf=2, min_samples_split=20,
+     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=2,
+     oob_score=False, random_state=0, verbose=1, warm_start=False))]
+Score: 0.7369736857405319
+10/09/2019 18:49:13
